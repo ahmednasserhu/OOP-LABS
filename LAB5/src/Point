@@ -1,0 +1,11 @@
+#include "Point."
+
+Point::Point()
+{
+    //ctor
+}
+
+Point::~Point()
+{
+    //dtor
+}
