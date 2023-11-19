@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1700338968 source:g:\iti\month 2\oop\labs\lab7\main.cpp
+	<iostream>
+	<graphics.h>
+	"Interface.h"
+
+1700384065 g:\iti\month 2\oop\labs\lab7\interface.h
+
+1700418944 source:g:\iti\month 2\oop\labs\lab7\operatoroverloading.cpp
+	"OperatorOverloading.h"
+	<iostream>
+
+1700340183 g:\iti\month 2\oop\labs\lab7\operatoroverloading.h
+	<iostream>
+	"Line.h"
+	"Circle.h"
+	"Rect.h"
+
+1700339735 g:\iti\month 2\oop\labs\lab7\include\line.h
+	"Shape.h"
+	<graphics.h>
+	"OperatorOverloading.h"
+
+1700339735 g:\iti\month 2\oop\labs\lab7\include\shape.h
+	"Point.h"
+	<iostream>
+
+1700339500 g:\iti\month 2\oop\labs\lab7\include\point.h
+
+1700339735 g:\iti\month 2\oop\labs\lab7\include\circle.h
+	"Shape.h"
+	<graphics.h>
+	"OperatorOverloading.h"
+
+1700339734 g:\iti\month 2\oop\labs\lab7\include\rect.h
+	"Shape.h"
+	<graphics.h>
+	"OperatorOverloading.h"
+
+1700329228 g:\iti\month 2\oop\labs\lab7\include\interface.h
+
+1700339130 g:\iti\month 2\oop\labs\lab7\include\operatoroverloading.h
+	<iostream>
+	"Line.h"
+	"Circle.h"
+	"Rect.h"
+
+1700384131 source:g:\iti\month 2\oop\labs\lab7\interface.cpp
+	"Interface.h"
+	"OperatorOverloading.h"
+	"Point.h"
+	"Shape.h"
+	"Circle.h"
+	"Line.h"
+	"Rect.h"
+	<graphics.h>
+	<iostream>
+
